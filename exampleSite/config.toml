@@ -1,4 +1,4 @@
-baseURL = "https://jolusec.com"
+baseURL = "https://jolusec.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "4"
